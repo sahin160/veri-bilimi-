@@ -8,4 +8,5 @@ Veri bilimcileri, verileri toplama, düzenleme ve analiz etme yeteneklerine sahi
 Veri biliminin geleceği hakkında birçok kişi farklı görüşler ileri sürebilir. Ancak şu kesin ki: veri bilimi, giderek daha fazla sayıda alanda kullanılmaya ve önemi artmaya devam edecektir.
 
 ayrıca veri bilimi ile ilgili yazılmış bu makaleyide inceleyebilirsiniz 
+
 [Büyük Veri Çağında İşletmelerde Veri Bilimi](https://www.researchgate.net/profile/Selin-Goekalp/publication/331481196_Buyuk_Veri_Caginda_Isletmelerde_Veri_Bilimi/links/5c7c0cb0a6fdcc4715ac8d47/Bueyuek-Veri-Caginda-Isletmelerde-Veri-Bilimi.pdf)
